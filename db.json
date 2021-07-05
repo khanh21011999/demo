@@ -2,6 +2,8 @@
   "user":{
     "id":1,
     "firstname":"Le",
-    "Last name":" Quoc Khanh"
+    "Last name":" Quoc Khanh",
+    "email":"khanhlq@gmail.com,
+    "password":123456
   }
 }
